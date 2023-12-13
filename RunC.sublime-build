@@ -1,0 +1,4 @@
+{
+    "cmd": ["start", "cmd", "/k", "tcc", "-run","$file"],
+    "shell": true 
+}
